@@ -2,7 +2,7 @@ from gnews import GNews
 from datetime import datetime, timedelta
 import pandas as pd
 
-keywords =  ["Bitcoin","BTC","Ethereum", 'ETH","Cardano","ADA","Solana"," SOL ","Ripple",
+keywords =  ["Bitcoin","BTC","Ethereum", "ETH","Cardano","ADA","Solana"," SOL ","Ripple",
              " XRP ","Polkadot"," DOT ","Litecoin"," LTC ","Chainlink","Dogecoin"," DOGE ","Binance"," BNB "]
 
 # Define the start and end dates
